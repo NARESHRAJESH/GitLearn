@@ -1,0 +1,35 @@
+.sec1{
+ height: 250px;
+ width: 30%;
+ background-color: rgb(204, 146, 208);
+ color: black;
+}
+
+h2{
+   color: rgb(42, 19, 32);
+}
+
+.sec,h4{
+    margin-left: 80px;
+    padding-top: 20px;
+}
+
+.sec,img{
+    margin-left: 35px;
+}
+
+.sec,img:hover{
+    transform: scale(1.1);
+}
+
+.sec, button{
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color:darkgreen;
+    color: aliceblue;
+}
+
+ button:hover{
+    background-color: black;
+    color: aliceblue;
+}
